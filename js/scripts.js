@@ -61,6 +61,6 @@ $(document).ready(function() {
     } else if (pointTotal >= 13) {
       result = $("#answer3").show();
     }
-    
+
   });
 });
