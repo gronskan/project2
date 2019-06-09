@@ -22,3 +22,10 @@ h1 {
   border: 2px solid black;
   margin: 6px;
 }
+
+img {
+  height: 75%;
+  width: 75%;
+  float: right;
+  padding: 2px;
+}
