@@ -54,6 +54,9 @@ $(document).ready(function() {
 
     var pointTotal = (response1 + response2 + response3 + response4 + response5);
 
+    var nameInput = $("input#name").val();
+    $(".name").text(nameInput);
+
     if (pointTotal <= 8) {
       result = $("#answer1").show();
     } else if (pointTotal >= 9 && pointTotal <= 12) {
