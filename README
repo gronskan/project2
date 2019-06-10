@@ -1,0 +1,27 @@
+# _Vacation Destination Survey_
+
+#### _Survey Homepage, June 9th, 2019_
+
+#### By _**Jarrod Green**_
+
+## Description
+
+_This is a survey created for my second code review assignment. The survey will take each question into consideration and use the data to determine a potential vacation destination._
+
+## Setup/Installation Requirements
+
+* _All you really need is an internet connection. The survey is just one page which can be viewed here: https://gronskan.github.io/project2/ _
+
+## Support and contact details
+
+_If there are any issues, contact me at stratacast@comcast.net _
+
+## Technologies Used
+
+_This webpage mostly uses jquery, javascript,  HTML and CSS with some Bootstrap classes to give it a little more style_
+
+### License
+
+*I guess this would fall under a MIT license*
+
+Copyright (c) 2019 **_Jarrod Green_*
